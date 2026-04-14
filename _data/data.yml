@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Joe Zhao
+  tagline: G11 Student
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: zhaozhuoer2021@hotmail.com
+  phone: +86 159 2154 8752
+  timezone: China/Beijing # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: China
+  website: https://joeyzhuoer.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+  linkedin: 
+  xing: 
+  github: JoeyZhuoer
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,28 +37,24 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+
+    - idiom: Chinese
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Electric Guitar
       link:
 
 
-    - item: Snowboarding
+    - item: Pedal making
       link:
 
-
-    - item: Cooking
-      link:
 
 
 career-profile:
