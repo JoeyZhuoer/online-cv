@@ -183,30 +183,26 @@ projects:
       link: "https://github.com/Cheetahbots8015/OnSeason-2025"
       tagline: "Developed autonomous control and vision-targeting for a competition robot using Java and Limelight."
 
-    - title: School Band – Guitarist
+    - title: School Band - Guitarist
       link: "#"
       tagline: "Performed as rhythm guitarist in school concerts; arranged j-pop and midwest emo pieces, collaborating with 8 members in band."
 
-    - title: Greenhouse CAS Project – Plant Monitoring System
+    - title: Greenhouse CAS Project - Plant Monitoring System
       link: "#"
       tagline: "Built an IoT-based system with Arduino and soil sensors to monitor temperature, humidity for school's greenhouse; visualized real-time data via a simple dashboard."
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Open source contributions to FRC robotics codebases, focusing on robot control, autonomous routines, and system integration.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: OnSeason-2025
+      link: "https://github.com/Cheetahbots8015/OnSeason-2025"
+      tagline: "Competition robot code for the 2025 FRC season. Implemented autonomous path planning, teleoperated controls, and sensor fusion using Java/WPILib."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: OffSeason-2025
+      link: "https://github.com/Cheetahbots8015/OffSeason-2025"
+      tagline: "Off-season development branch for testing new mechanisms and command‑based architecture. Refactored drivetrain control and added logging for performance tuning."
 
 publications:
   title: Publications
