@@ -75,68 +75,60 @@ education:
 
 experiences:
   title: Competitions & Awards
-  list:
-    - name: Yale Pitch Competition
+  info:
+    - role: Participant (Project Designer & Presenter)
       time: 2025.7
-      level: International
-      award: First Place
-      contribution: |
-        - Participated in project planning, logical reasoning, and presentation defense
+      company: Yale Pitch Competition
+      details: |
+        Award: First Place
+        - Participated in project planning, logical reasoning, and presentation
         - Combined foundation in science with innovative thinking to complete project design
-        - Enhanced interdisciplinary integration, academic communication, and teamwork
         - Developed project design and problem-solving skills for scientific research
 
-    - name: Zongheng Cup Chinese Debate Competition (Group B)
+    - role: Lead Debater
       time: 2026.5
-      level: International
-      award: Third Place, Best Debater of the Tournament, Best Debater of a Round
-      contribution: |
+      company: Zongheng Cup Chinese Debate Competition (Group B)
+      details: |
+        Award: Third Place, Best Debater of the Tournament, Best Debater of a Round
         - Led topic analysis, logical structuring, and evidence collection
         - Demonstrated strong logical reasoning, verbal expression, and information synthesis
-        - Cultivated rigorous reasoning and multi-perspective analysis for research
 
-    - name: AMC 12B (American Mathematics Competition 12B)
+    - role: Participant
       time: 2024.11
-      level: International
-      award: Global Award Distinction
-      contribution: |
+      company: AMC 12B (American Mathematics Competition 12B)
+      details: |
+        Award: Global Award Distinction
         - Applied solid mathematical foundation to complex mathematical reasoning and data analysis
-        - Developed logical thinking, data processing, and problem-solving skills for research
-        - Built foundation for data analysis in brain science research
-
-    - name: AMC 10B (American Mathematics Competition 10B)
+        - Built foundation for logical thinking and problem-solving skills
+    - role: Participant
       time: 2024.11
-      level: International
-      award: Global Award Distinction
-      contribution: |
+      company: AMC 10B (American Mathematics Competition 10B)
+      details: |
+        Award: Global Award Distinction
         - Skilled in solving diverse problems using mathematical knowledge
         - Strengthened logical reasoning and efficient computation
-        - Enhanced foundational skills in data statistics and model analysis for research
 
-    - name: BMT (Berkeley Math Tournament)
+    - role: Participant
       time: 2024.11
-      level: National
-      award: National Individual Score General Distinction
-      contribution: |
+      company: BMT (Berkeley Math Tournament)
+      details: |
+        Award: National Individual Score General Distinction
         - Systematically applied relevant knowledge to complete competition tasks
-        - Reviewed Chinese and English literature, organized and analyzed competition data
-        - Solidified foundation in life sciences, developed literature review and data processing skills
 
-    - name: FRC Sanya (FIRST Robotics Competition China Sanya)
+    - role: Robotics Team Member (Programming)
       time: 2025.7
-      level: National
-      award: Best Innovative Award
-      contribution: |
-        - Participated in robot design, development, and debugging
-        - Led the conceptualization and implementation of innovative solutions
-        - Acquired basic programming and mechanical principles
-        - Developed engineering thinking, innovation, and teamwork – suitable for lab intelligent research support
+      company: FRC Sanya (FIRST Robotics Competition China Sanya)
+      details: |
+        Award: Best Innovative Award
+        - Participated in robot development, programming and debugging
+        - Contribute to machine vision and control systems
+        - Developed engineering thinking, innovation, and teamwork
 
-    - name: DMMC (Duke Math Meet China)
+    - role: Participant
       time: 2025.5.31-6.2
-      level: International
-      award: Best Visual Design Award
-      contribution: |
+      company: DMMC (Duke Math Meet China)
+      details: |
+        Award: Best Visual Design Award
         - Engaged in data modeling, visualization, and report writing
         - Proficient in data processing and graphing tools
         - Improved data visualization, report writing, and logical presentation skills for research
