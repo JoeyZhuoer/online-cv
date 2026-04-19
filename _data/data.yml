@@ -177,27 +177,19 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Projects demonstrating technical, creative, and research-driven skills.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: FRC Robot Control & Vision System
+      link: "https://github.com/Cheetahbots8015/OnSeason-2025"
+      tagline: "Developed autonomous control and vision-targeting for a competition robot using Java and Limelight."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: School Band – Guitarist
+      link: "#"
+      tagline: "Performed as rhythm guitarist in school concerts; arranged j-pop and midwest emo pieces, collaborating with 8 members in band."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Greenhouse CAS Project – Plant Monitoring System
+      link: "#"
+      tagline: "Built an IoT-based system with Arduino and soil sensors to monitor temperature, humidity for school's greenhouse; visualized real-time data via a simple dashboard."
 
 oss:
   title: OSS Contributions
