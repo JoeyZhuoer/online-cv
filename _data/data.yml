@@ -6,7 +6,6 @@ sidebar:
   position: right # position of the sidebar : left or right
   about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: false # set to False if you want education in main section instead of in sidebar
-
   # Profile information
   name: Joe Zhao
   tagline: G11 Student
@@ -74,47 +73,73 @@ education:
         - Chinese LL SL
         - Economics SL
 
-
 experiences:
-  title: Experiences
-  info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  title: Competitions & Awards
+  list:
+    - name: Yale Pitch Competition
+      time: 2025.7
+      level: International
+      award: First Place
+      contribution: |
+        - Participated in project planning, logical reasoning, and presentation defense
+        - Combined foundation in science with innovative thinking to complete project design
+        - Enhanced interdisciplinary integration, academic communication, and teamwork
+        - Developed project design and problem-solving skills for scientific research
+
+    - name: Zongheng Cup Chinese Debate Competition (Group B)
+      time: 2026.5
+      level: International
+      award: Third Place, Best Debater of the Tournament, Best Debater of a Round
+      contribution: |
+        - Led topic analysis, logical structuring, and evidence collection
+        - Demonstrated strong logical reasoning, verbal expression, and information synthesis
+        - Cultivated rigorous reasoning and multi-perspective analysis for research
+
+    - name: AMC 12B (American Mathematics Competition 12B)
+      time: 2024.11
+      level: International
+      award: Global Award Distinction
+      contribution: |
+        - Applied solid mathematical foundation to complex mathematical reasoning and data analysis
+        - Developed logical thinking, data processing, and problem-solving skills for research
+        - Built foundation for data analysis in brain science research
+
+    - name: AMC 10B (American Mathematics Competition 10B)
+      time: 2024.11
+      level: International
+      award: Global Award Distinction
+      contribution: |
+        - Skilled in solving diverse problems using mathematical knowledge
+        - Strengthened logical reasoning and efficient computation
+        - Enhanced foundational skills in data statistics and model analysis for research
+
+    - name: BMT (Berkeley Math Tournament)
+      time: 2024.11
+      level: National
+      award: National Individual Score General Distinction
+      contribution: |
+        - Systematically applied relevant knowledge to complete competition tasks
+        - Reviewed Chinese and English literature, organized and analyzed competition data
+        - Solidified foundation in life sciences, developed literature review and data processing skills
+
+    - name: FRC Sanya (FIRST Robotics Competition China Sanya)
+      time: 2025.7
+      level: National
+      award: Best Innovative Award
+      contribution: |
+        - Participated in robot design, development, and debugging
+        - Led the conceptualization and implementation of innovative solutions
+        - Acquired basic programming and mechanical principles
+        - Developed engineering thinking, innovation, and teamwork – suitable for lab intelligent research support
+
+    - name: DMMC (Duke Math Meet China)
+      time: 2025.5.31-6.2
+      level: International
+      award: Best Visual Design Award
+      contribution: |
+        - Engaged in data modeling, visualization, and report writing
+        - Proficient in data processing and graphing tools
+        - Improved data visualization, report writing, and logical presentation skills for research
 
 certifications:
   title: Certifications
